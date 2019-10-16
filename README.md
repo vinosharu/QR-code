@@ -12,3 +12,6 @@ How to Execute?
 3  Choose the Image dimension size you want
 
 4  Download your QR code
+
+
+<a href="https://codepen.io/vinosharu-developer/pen/RwwRGbX" target="_blank">Demo</a>
