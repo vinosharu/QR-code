@@ -14,4 +14,4 @@ How to Execute?
 4  Download your QR code
 
 
-<a href="https://codepen.io/vinosharu-developer/pen/RwwRGbX" target="_blank">Demo</a>
+<a href="https://codepen.io/vinosharu-developer/full/RwwRGbX" target="_blank">Demo</a>
